@@ -1,0 +1,30 @@
+body {
+   font-family: 'calluna';
+   font-size: 16px;
+   line-height: 150%;
+   font-weight: 300;
+   color: #333;
+}
+
+p {
+   max-width: 35em;
+   text-align: justify;
+   text-justify: inter-word;
+   text-indent: 1em;
+}
+
+article {
+   margin-left: 15em;
+}
+
+figure {
+   margin-left: -15em;
+} 
+
+figure > img {
+   max-width: 100%;
+}
+
+p.byline {
+   text-indent: 0;
+}
