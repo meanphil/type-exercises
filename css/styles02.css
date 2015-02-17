@@ -1,0 +1,31 @@
+body {
+   padding: 20px 0;
+}
+
+h1 {
+   margin: 2em 5em 1em 0;
+   line-height: 1em;
+   max-width: 35em;
+   display: block;
+}
+
+h3 {
+   margin: 2em 0 1em 0;
+}
+
+p + p {
+  margin: 2em 0;
+}
+
+figure {
+   margin-bottom: 4em;
+}
+
+figcaption {
+   margin-left: 15em;
+   max-width: 35em;
+}
+
+p.byline {
+   margin: 0.5em 0 1em 0;
+}
