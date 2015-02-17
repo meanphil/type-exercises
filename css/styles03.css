@@ -1,0 +1,22 @@
+h1 {
+   font-weight: bold;
+}
+
+h3 {
+   font-weight: bold;
+   text-transform: uppercase;
+   max-width: 35em;
+   
+}
+
+time {
+   font-style: italic;
+}
+
+figcaption {
+   font-style: italic;
+}
+
+p.byline {
+   margin: 0.5em 0 1em 0;
+}
