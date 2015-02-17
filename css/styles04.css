@@ -1,0 +1,31 @@
+body {
+   background-color: #F7F6F5;
+   color: #431;
+}
+
+h1 {
+   font-size: 3em;
+   margin: 1.5em 5em 0.5em 0;
+   color: #302010;
+}
+
+a {
+   color: #D17C2D;
+}
+
+time {
+   color: #987;
+   font-size: 0.9em;
+}
+
+figure {
+   background-color: #f3f2f0;
+   padding-bottom: 0.8em;
+}
+
+figcaption {
+   margin-left: 18em;
+   font-size: 13px;
+   color: #b0a899;
+   max-width: 45em;
+}
