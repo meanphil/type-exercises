@@ -1,0 +1,70 @@
+header {
+   position: fixed;
+   top: 15em;
+   left: 15em;
+   text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+   z-index: -1;
+}
+
+time {
+   margin-top: 5px;
+   color: #653;
+   font-size: 0.7em;
+}
+time, p.byline {
+   background-color: rgba(255, 255, 255, 0.7);
+   text-shadow: none;
+   display: block;
+   float: left;
+   clear: left;
+   padding: 0 5px;
+}
+
+p.byline {
+   margin-top: 0px;
+}
+
+p.byline::before {
+   content: "";
+   padding: 0;
+}
+
+article {
+   margin: 0;
+}
+
+h1 { color: white; }
+
+figure {
+   margin: 0;
+   width: 100%;
+   position: fixed;
+   top: 0px;
+   left: 0px;
+   z-index: -2;
+   padding: 0;
+}
+
+figcaption {
+   position: absolute;
+   text-style: italic;
+   top: 0em;
+   left: 0em;
+   width: 25em;
+   color: rgba(0, 0, 0, 0.5);
+   background-color: rgba(0, 0, 0, 0.1);
+   padding: 10px;
+}
+
+article {
+   margin-top: 30em;
+   background-color: white;
+   padding-left: 15em;
+   padding-top: 2em;
+   padding-bottom: 40px;
+   margin-bottom: 15em;
+}
+
+figcaption {
+   
+}
