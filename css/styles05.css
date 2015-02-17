@@ -1,0 +1,37 @@
+h1 {
+   font-family: 'pt-sans-narrow';
+   margin-bottom: 0;
+}
+
+h3 {
+   font-family: 'pt-sans-narrow';
+}
+
+time {
+   font-family: 'pt-sans-caption';
+   color: #E1D5CD;
+   display: inline-block;
+}
+
+figure {
+   margin-top: 2em;
+}
+
+figcaption {
+   font-family: 'pt-sans-caption';
+   font-style: normal;
+   font-size: 0.7em;
+   line-height: 1.5em;
+   margin-left: 22em;
+   max-width: 45em;
+}
+
+p.byline {
+   display: inline-block;
+}
+
+p.byline::before {
+   content: "\2014 ";
+   color: #a87;
+   padding-right: 5px;
+}
