@@ -1,5 +1,5 @@
 body {
-   padding: 20px 0;
+   margin-bottom: 50px;
 }
 
 h1 {
@@ -14,11 +14,11 @@ h3 {
 }
 
 p + p {
-  margin: 2em 0;
+  margin: 1em 0;
 }
 
 figure {
-   margin-bottom: 4em;
+   margin-bottom: 3em;
 }
 
 figcaption {
